@@ -2,8 +2,8 @@
 
 ## Dumping
 
-**Export database:**
+**Export database:**<br>
 `mysql -u <username> -p <database> > db.sql`
 
-**Import database:**
+**Import database:**<br>
 `mysql -u <username> -p <database> < db.sql`

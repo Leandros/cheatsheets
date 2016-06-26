@@ -2,6 +2,10 @@
 
 My collection of cheatsheet for various tools I often use.
 
+## Table of Contents
+
+- [GDB](https://github.com/Leandros/cheatsheets/blob/master/gdb.md)
+- [MySQL](https://github.com/Leandros/cheatsheets/blob/master/mysql.md)
 
 ## LICENSE
 

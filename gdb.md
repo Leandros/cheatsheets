@@ -2,51 +2,51 @@
 
 ## Examine code
 
-**List code around position:**
-`list`
+**List code around position:**<br>
+`list`<br>
 `list <lines>`
 
 ## Stepping
 
-**Step over line:**
+**Step over line:**<br>
 `next [count]`
 
-**Step in functions:**
+**Step in functions:**<br>
 `step [count]`
 
-**Step out:**
+**Step out:**<br>
 `finish`
 
-**Continue execution:**
+**Continue execution:**<br>
 `c`
 
 ## Breakpoints / Watchpoints
 
-**Set Breakpoint:**
-`b <function>`
+**Set Breakpoint:**<br>
+`b <function>`<br>
 `b <filename>:<linenum>`
 
-**Set Watchpoint:**
-`watch <variable>`
+**Set Watchpoint:**<br>
+`watch <variable>`<br>
 `watch *(<type>*)<address>`
 
-**List Breakpoint:**
+**List Breakpoint:**<br>
 `info break`
 
-**Disable / Enable Breakpoint:**
-`enable <id>`
+**Disable / Enable Breakpoint:**<br>
+`enable <id>`<br>
 `disable <id>`
 
-**Remove Breakpoint by ID:**
+**Remove Breakpoint by ID:**<br>
 `del <id>`
 
-**Remove Breakpoint by File/Line:**
-`clear <linenum>`
+**Remove Breakpoint by File/Line:**<br>
+`clear <linenum>`<br>
 `clear <filename>:<linenum>`
 
 
 ## Custom
 
-**Stepping:**
-`stepo` (step over)
+**Stepping:**<br>
+`stepo` (step over)<br>
 `stepi` (step in)
