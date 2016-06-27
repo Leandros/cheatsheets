@@ -6,6 +6,15 @@ My collection of cheatsheet for various tools I often use.
 
 - [GDB](https://github.com/Leandros/cheatsheets/blob/master/gdb.md)
 - [MySQL](https://github.com/Leandros/cheatsheets/blob/master/mysql.md)
+- [Vim](https://github.com/Leandros/cheatsheets/blob/master/vim.md)
+
+
+## Contributing
+
+Feel free to open issues, send pull-request or fork and improve.<br>
+However, please keep in mind that these are mainly build out of my personal
+need.
+
 
 ## LICENSE
 
