@@ -20,6 +20,9 @@
 **Continue execution:**<br>
 `c`
 
+**One-Time breakpoint:**<br>
+`until <linenum>`
+
 ## Breakpoints / Watchpoints
 
 **Set Breakpoint:**<br>
