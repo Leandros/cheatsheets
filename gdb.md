@@ -11,7 +11,11 @@
 **Step over line:**<br>
 `next [count]`
 
-**Step in functions:**<br>
+**Step over instruction:**<br>
+`stepi [count]` (short: `si`)
+`nexti [count]` (steps over functions) (short: `ni`)
+
+**Step over source line:**<br>
 `step [count]`
 
 **Step out:**<br>
@@ -47,6 +51,19 @@
 `clear <linenum>`<br>
 `clear <filename>:<linenum>`
 
+## Automatic Display
+
+**Display expr each time gdb stops:**<br>
+`display <expr>` (example: `display/i $pc` to display current assembly line)
+
+**Show all current displays:**<br>
+`info display`
+
+**Modify displays:**<br>
+`delete display <dnum>`
+`disable display <dnum>`
+`enable display <dnum>`
+`display` (show all, same as stopping)
 
 ## Custom
 
